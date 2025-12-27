@@ -12,7 +12,7 @@ second file
   </tr>
   <tr>
     <td>API Integration</td>
-    <td>✅ Active</td>
+    <td>✅Active</td>
     <td>v2.1.0</td>
   </tr>
 </table>
